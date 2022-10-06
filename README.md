@@ -11,11 +11,11 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ✔ Callme: ***Jay Patel*** or ***TeamWorker*** 😊 <br>
-✔ 🔭 I’m currently Working on NodeJS<br>
+✔ 🔭 I’m currently Working on React Js<br>
 ✔ 🌱 I’m currently learning **everything 🤣**<br>
 ✔ 👨‍💻 All of my projects are available at [https://github.com/jaypatel149](https://github.com/jaypatel149)<br>
 ✔ 📝 I regularly write articles on [https://medium.com/@jaypatel149](https://medium.com/@jaypatel149)<br>
-✔ 📫 How to reach me **jaypate1k95@gmail.com**<br>
+✔ 📫 How to reach me **jppatel0916@gmail.com**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
