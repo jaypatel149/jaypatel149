@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-128/mysql-3521596-2945040.png" width="40"/>
       </a>
       <br>MySQL
     </td>
@@ -62,31 +62,31 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-128/html-2752158-2284975.png" width="40"/>
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="40"/>
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/react.svg" width="40"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="40"/>
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-7-1175254.png" width="40"/>
       </a>
       <br>Bootstrap
     </td>
      <td align="center" width="96">
       <a>
-        <img src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg" width="40"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-128/amazon-aws-3521268-2944772.png" width="40"/>
       </a>
       <br>AWS
     </td>
