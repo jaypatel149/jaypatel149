@@ -32,13 +32,13 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-128/python-3521655-2945099.png" width="40"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="40"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-128/javascript-2752148-2284965.png" width="40"/>
       </a>
       <br>Javascript
     </td>
