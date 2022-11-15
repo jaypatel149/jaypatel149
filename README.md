@@ -113,5 +113,5 @@
 	<a href="https://www.facebook.com/jaypatel/"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
 	<a href="https://www.linkedin.com/in/jaypatel149/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/jaypatel_149/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/jayprak13370082"><img src="https://image.shutterstock.com/image-photo/kiev-ukraine-may-16-2015-260nw-278574116.jpg" alt="Twitter"/ width="40px"></a>
+	<a href="https://twitter.com/jayprak13370082"><img src="https://cdn.iconscout.com/icon/free/png-128/twitter-53-189787.png" alt="Twitter"/ width="40px"></a>
 </p>
