@@ -13,7 +13,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ✔ Callme: ***Jay Patel*** or ***9082100916*** 😊 <br>
-✔ 🔭 I’m currently Working on React Js<br>
+✔ 🔭 I’m interested in Frontend Development (REACT JS || Web app)<br>
 ✔ 🌱 I’m currently learning **everything 🤣**<br>
 ✔ 👨‍💻 All of my projects are available at [https://github.com/jaypatel149](https://github.com/jaypatel149)<br>
 ✔ 📝 I regularly write articles on [https://medium.com/@jaypatel149](https://medium.com/@jaypatel149)<br>
